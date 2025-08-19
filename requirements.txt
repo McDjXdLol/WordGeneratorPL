@@ -1,0 +1,4 @@
+colorama==0.4.6
+marisa-trie==1.3.0
+morfeusz2==1.99.11
+tqdm==4.67.1
