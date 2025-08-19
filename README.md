@@ -83,3 +83,7 @@ Found words: ['kot', 'pies', 'dom', ...]
 - Avoid setting min_letters_in_word below 3; words shorter than 3 letters are ignored.
 
 - The script uses colorful terminal output—best viewed in terminals that support ANSI escape codes.
+
+## License
+
+More about [LICENSE](LICENSE)
